@@ -32,7 +32,7 @@ Open up Anaconda Navigator and confirm that Jupyter Notebook, VS code and Jupyte
 ___
 ## Git account initialisation 
 
-Follow this tutorial on how to setup of github account with bash so you are verfied 
+Follow this tutorial on how to setup of github account with bash so you are verified 
 
 [Git Bash Account Setup](GitAccountInitialization.md)
 
