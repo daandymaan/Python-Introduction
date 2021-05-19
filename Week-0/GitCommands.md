@@ -6,7 +6,7 @@ Really useful cheat sheet which contains all the keywords and commands needed fo
 
 First you want to make a copy of this repo on your PC so you can edit and update files 
 Create a new folder in your Documents folder or any location you want 
-Left click within the current folder you are in and select the **Git Bash here** 
+Right click within the current folder you are in and select the **Git Bash here** 
 This allows you to open a bash terminal from within the current directory you are in
 Enter the following command
 
