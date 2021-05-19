@@ -28,3 +28,19 @@ Anaconda is a Python distribution, pretty much has all the stuff you need includ
 Follow the default installation instructions 
 
 Open up Anaconda Navigator and confirm that Jupyter Notebook, VS code and JupyterLab is installed. If not, install it by clicking the button install. 
+
+___
+## Git account initialisation 
+
+Follow this tutorial on how to setup of github account with bash so you are verified 
+
+[Git Bash Account Setup](GitAccountInitialization.md)
+
+___
+## Git 101
+
+Follow this tutorial on the basics of Git and setting up a local repo
+
+[Git 101](GitCommands.md)
+
+___
