@@ -8,6 +8,8 @@ This is the repo which will contain materials needed to learn Git, Python and Ma
 
 # Week work 
 
-[Week 0](Week-0)
+[Week 0](Week-0) Introduction to GIT
 
-[Week 1](Week-1)
+[Week 1](Week-1) Introduction to naming conventions and variables 
+
+[Week 2](Week-2) Introduction to loops and lists
