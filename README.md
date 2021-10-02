@@ -17,3 +17,7 @@ This is the repo which will contain materials needed to learn Git, Python and Ma
 [Week 2](Week-2) Introduction to loops and lists
 
 [Week 3](Week-3) Introduction to logic gates and condtional statements
+
+[Week 4](Week-4) Basic Exercise (Recap)
+
+[Week 5](Week-5) Functions and I/O
