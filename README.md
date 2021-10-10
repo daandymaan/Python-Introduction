@@ -21,3 +21,5 @@ This is the repo which will contain materials needed to learn Git, Python and Ma
 [Week 4](Week-4) Basic Exercise (Recap)
 
 [Week 5](Week-5) Functions and I/O
+
+[Week 6](Week-6) Classes / Objects 
